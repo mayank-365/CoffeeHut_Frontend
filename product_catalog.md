@@ -1,1 +1,1 @@
-product catalog
+Feactured Product Catalog
